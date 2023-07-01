@@ -49,4 +49,6 @@ Impresión de las matrices de confusión.
 
 Se carga las imágenes de entrenamiento y prueba, entrenar un modelo de red convolucional, realizar predicciones en el conjunto de prueba y calcular las matrices de confusión para evaluar el rendimiento del modelo.
 
+![Matriz de Confusion](MATRICES.jpg)
+
 Observacion: Trabajo en grupo 
