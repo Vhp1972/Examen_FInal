@@ -51,4 +51,7 @@ Se carga las imágenes de entrenamiento y prueba, entrenar un modelo de red conv
 
 ![Matriz de Confusion](MATRICES.jpg)
 
-Observacion: Trabajo en grupo 
+Observacion:
+Existia una carpeta vacia en train la cual daba un error, por consiguiente se coloca una imagen que se la tomo la carpeta test,
+EL ZIP recibido al descomprimirse se crea un archivo el mismo que daba error, a lo cual se procede a borrar.
+Se trabajo en GRUPO
